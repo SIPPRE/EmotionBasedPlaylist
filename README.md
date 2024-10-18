@@ -1,7 +1,3 @@
-Here is a draft for the `README.md` file:
-
----
-
 # Mood-Based Playlist Generator
 
 This project is a mood-based music player developed as an undergraduate project at the Department of Electrical & Computer Engineering, University of Peloponnese for the course "Digital Sound and Image Processing." The project was performed by Kalogeropoulos A. and Andrikou D., under the supervision of Associate Prof. Athanasios Koutras.
@@ -67,6 +63,3 @@ You will also need to set up a Spotify Developer account and obtain the followin
 
 This project is intended for educational purposes and should not be used for commercial applications without proper licensing.
 
----
-
-Feel free to adjust the details or add more information to suit your needs.
